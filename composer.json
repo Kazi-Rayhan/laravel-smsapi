@@ -6,7 +6,7 @@
         "laravel",
         "smsapi"
     ],
-    "homepage": "https://github.com/Kazi-Rayhan/laravel-smsapi",  // Updated with your GitHub repo
+    "homepage": "https://github.com/Kazi-Rayhan/laravel-smsapi",
     "license": "MIT",
     "authors": [
         {
@@ -39,7 +39,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Kazi-Rayhan/laravel-smsapi"  // Updated to your repository URL
+            "url": "https://github.com/Kazi-Rayhan/laravel-smsapi"
         }
     ],
     "minimum-stability": "dev",
