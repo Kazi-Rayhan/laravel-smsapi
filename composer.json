@@ -1,12 +1,12 @@
 {
-    "name": "vemcogroup/laravel-smsapi",
-    "description": "Laravel implementation to easily send SMS via SMSAPI",
+    "name": "kazi-rayhan/laravel-smsapi",
+    "description": "Laravel implementation to easy sent sms via SMSAPI",
     "keywords": [
         "sms",
         "laravel",
         "smsapi"
     ],
-    "homepage": "https://github.com/Kazi-Rayhan/laravel-smsapi",
+    "homepage": "https://github.com/vemcogroup/laravel-smsapi",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^8.0|^8.1|^8.2",
+        "php": "^8.0|^8.2",
         "laravel/framework": "^7.0|^8.0|^9.0|^10.0",
         "smsapi/php-client": "^3.0"
     },
@@ -39,7 +39,8 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Kazi-Rayhan/laravel-smsapi"
+            "name": "smsapi/php-client",
+            "url": "https://github.com/snapshotpl/smsapi-php-client"
         }
     ],
     "minimum-stability": "dev",
